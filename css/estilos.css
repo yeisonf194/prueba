@@ -1,0 +1,81 @@
+.m1{
+	color: red;
+	font-family: Times New Roman;
+	font-size: 2.5em;
+	font-weight: bolder;
+}
+.m2{
+	color: red;
+	font-family: Times New Roman;
+	font-size: 1.8em;
+	font-weight: bolder;
+	background: green;
+}
+.m3{
+	color: white;
+	font-family: Times New Roman;
+	font-size: 1.5em;
+	font-weight: bolder;
+	background: green;
+}
+.italic{
+	font-weight: bolder;
+}
+.m5{
+	color:red;
+	font-size: 2.5em;
+}
+.m6{
+	color:red;
+	background: yellow;
+}
+.m7{
+	color:white;
+	background: gray;
+}
+.m8{
+	background: red;
+}
+.m9{
+	background: green;
+}
+.m10{
+	color: white;
+	background: black;
+}
+.m11{
+	color:black;
+	background: gray;
+}
+.m12{
+	color:white;
+	background: white;
+}
+.m13{
+	color:white;
+	background: blue;
+}
+.m14{
+	font-size: 2em;
+	color: green;
+}
+.m15{
+	color: darkblue;
+	font-size: 2em;
+}
+.m16{
+	color: darkblue;
+	font-size: 2em;
+}
+th{
+	background: lightgreen;
+}
+td{
+	background: yellow;
+}
+.m17{
+	color:yellow;
+}
+.m18{
+	color: darkblue;
+}
